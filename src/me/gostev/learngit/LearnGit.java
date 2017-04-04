@@ -7,6 +7,8 @@ public class LearnGit
  {
   System.out.println("Main branch");
 
+  System.out.println("Feature 1");
+
  }
 
 }
